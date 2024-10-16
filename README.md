@@ -6,11 +6,10 @@
 </p>
 
 # 💫 About Me:
-- 🔭 Currently working with Flutter
-- 🌱 Learning Node.js
-- 💬 Feel free to ask me anything about Flutter
-- 📫 Reach me at: [junaidkhan.tech9155@gmail.com](mailto:junaidkhan.tech9155@gmail.com)
-- 😄 Check out my work: [Projects](https://mr-junaidk.github.io/projects/)
+- 🧑‍💻 Flutter Developer
+- 📖 Node.js
+- 📧 [junaidkhan.tech9155@gmail.com](mailto:junaidkhan.tech9155@gmail.com)
+- 💼 [Projects](https://mr-junaidk.github.io/projects/)
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027949547661) 
