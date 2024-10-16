@@ -12,10 +12,10 @@
 - 💼 [Projects](https://mr-junaidk.github.io/projects/)
 
 ## 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027949547661) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_junaidk/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-khan-27b889223/) 
-[![LinkedIn](https://img.shields.io/badge/WhatsApp-%23075E54.svg?logo=WhatsApp&logoColor=white)](https://wa.me/923156818180)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027949547661)<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_junaidk/)<br><br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-khan-27b889223/)<br><br> 
+[![LinkedIn](https://img.shields.io/badge/WhatsApp-%23075E54.svg?logo=WhatsApp&logoColor=white)](https://wa.me/923156818180)<br><br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_junaidk) 
 
 # 💻 Tech Stack:
@@ -28,4 +28,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-junaidk&theme=system&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-junaidk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
