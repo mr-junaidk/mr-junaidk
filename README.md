@@ -9,7 +9,7 @@
 - 🔭 Currently working with Flutter
 - 🌱 Learning Node.js
 - 💬 Feel free to ask me anything about Flutter
-- 📫 Reach me at: [junaidkhan.tec9155@gmail.com](mailto:junaidkhan.tech9155@gmail.com)
+- 📫 Reach me at: [junaidkhan.tech9155@gmail.com](mailto:junaidkhan.tech9155@gmail.com)
 - 😄 Check out my work: [Projects](https://mr-junaidk.github.io/projects/)
 
 ## 🌐 Connect with Me:
