@@ -46,7 +46,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 🎓 Education:  
-#### <span style="font-size:18px"><b>Bachelor of Science (Computer Science), CGPA (3.53/4.0)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2020 – 2024)</b></span>  
+#### <span style="font-size:18px"><b>Bachelor of Science (Computer Science), CGPA (3.53/4.0)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2020 – 2024)</b></span>  
 <span style="color:gray">City University of Science & Information Technology, Peshawar</span><br>
 #### <span style="font-size:18px"><b>Relevant Coursework</b></span>
 - Object Oriented Programming
